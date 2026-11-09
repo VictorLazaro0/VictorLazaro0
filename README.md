@@ -10,13 +10,13 @@
 
   <!-- BADGES DE CONTACTO Y PORTAFOLIO -->
   <p align="center">
-    <a href="TU_LINKEDIN_AQUI">
+    <a href="www.linkedin.com/in/victormlazaro">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="TU_PORTAFOLIO_AQUI">
       <img src="https://img.shields.io/badge/Portafolio_Web-121013?style=for-the-badge&logo=firefox&logoColor=white" alt="Portafolio Web" />
     </a>
-    <a href="mailto:tu-email@dominio.com">
+    <a href="victorlazaro72@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
