@@ -16,9 +16,9 @@
     <a href="https://victorlazaro0.github.io/">
       <img src="https://img.shields.io/badge/Portafolio_Web-121013?style=for-the-badge&logo=firefox&logoColor=white" alt="Portafolio Web" />
     </a>
-    <a href="victorlazaro72@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
+    <a href="mailto:victorlazaro72@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a
   </p>
 </div>
 
